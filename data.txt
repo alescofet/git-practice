@@ -1,0 +1,3 @@
+Nombre: Alex
+Edad: 24
+Color: Azul
